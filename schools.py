@@ -72,7 +72,7 @@ fig = {"data": numbers, "layout": my_layout}
 offline.plot(fig, filename="women.html")
 
 
-# Map 2) Percent of total enrollment that are Black or African American over 10%
+# Map 2)
 
 for school in school_names:
     P5 = school["NCAA"]["NAIA conference number football (IC2020)"]
